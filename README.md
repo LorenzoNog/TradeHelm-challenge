@@ -1,39 +1,33 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Trade Helm 
 
-First, run the development server:
+Ésta es una aplicación realizada con el objetivo de ampliar y mejorar conocimientos en la implementación de typescript y react JS. 😁👍
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## En que consiste?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Se trata de un desafío frontEnd propuesto por la empresa TradeHelm. 
+Básicamente es la famosa lista de supermercado, que muestra un formulario para agregar elementos a la misma y la posibilidad de poder borrar cada elemento de la lista independientemente.
+La aplicación fue realizada a partir de un MOCK que consta ya de 3 productos agregados por default.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+# 🛠 Contruido con:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+* Next JS
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Se utiliza en el:
 
-## Learn More
+* Typescript
+* CSS
+* React
 
-To learn more about Next.js, take a look at the following resources:
+## Deploy
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+En caso de querer probar la app:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* Clonar el repositorio mediante 'git clone' + link del mismo.
+* Ubicarte en la carpeta 'tradehelmpractica'.
+* Ejecutar en la consola 'npm install'.
+* Ejecutar en la consola 'npm run dev'.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# TradeHelm-challenge
+y eso es todo!
